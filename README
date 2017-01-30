@@ -4,3 +4,5 @@ Instructions on how to run project
 
 - cd into "movie_trailer_website" directory. 
 - run "python website.py" and website will run in your default browser. 
+
+Note: fresh_tomatoes.py obtained from https://github.com/adarsh0806/ud036_StarterCode
